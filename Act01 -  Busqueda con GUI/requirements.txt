@@ -1,5 +1,0 @@
-# Requisitos del proyecto
-# Python 3.13.2
-
-numpy==2.3.2
-matplotlib==3.10.5
